@@ -7,6 +7,10 @@
 
 💻 Here you can find some of the projects I have done in programming courses and events
 
+🎓 I have a degree in *Graphic Design* and am currently in transition of career
+
+⭐ I hope to get my first chance as a Front-End soon
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-scillapinheiro-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scillapinheiro/)](https://www.linkedin.com/in/scillapinheiro/)
 [![Twitter Badge](https://img.shields.io/badge/-scillapinheiro-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/scillapinheiro/)](https://twitter.com/scillapinheiro)
@@ -15,7 +19,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scillapinheiro@gmail.com)](mailto:scillapinheiro@gmail.com)
 
 
-## 🚀💻 Technologies & Tools
+## 🚀 Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
