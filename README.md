@@ -7,7 +7,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-scillapinheiro-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/scillapinheiro/)](https://twitter.com/scillapinheiro)
 [![Instagram Badge](https://img.shields.io/badge/-scillapinheiro-833AB4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/scillapinheiro/)](https://instagram.com/scillapinheiro)
 [![Facebook Badge](https://img.shields.io/badge/-scillapinheiro-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/scillapinheiro/)](https://facebook.com/scillapinheiro)
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scillapinheiro@gmail.com)](mailto:scillapinheiro@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-scillapinheiro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:scillapinheiro@gmail.com)](mailto:scillapinheiro@gmail.com)
 
 
 🤓 I’m currently learning **HTML5, CSS3 and JavaScript**
