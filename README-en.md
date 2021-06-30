@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/scillapinheiro/scillapinheiro/edit/main/README.md">Português</a> | <a href="https://github.com/scillapinheiro/scillapinheiro/edit/main/README-en.md">English</a></p>
+<p align="center"><a href="https://github.com/scillapinheiro/scillapinheiro/blob/main/README.md">Português</a> | <a href="https://github.com/scillapinheiro/scillapinheiro/blob/main/README-en.md">English</a></p>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=scillapinheiro" alt="scillapinheiro" /></p>
 
