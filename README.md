@@ -33,4 +33,4 @@
 ## ⚡ Estatisticas do GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scillapinheiro&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scillapinheiro&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scillapinheiro&hide=TeX&layout=compact&theme=dracula)
