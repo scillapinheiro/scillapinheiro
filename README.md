@@ -10,7 +10,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/scillapinheiro/)](https://instagram.com/scillapinheiro)
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/scillapinheiro/)](https://facebook.com/scillapinheiro)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:priscilla_pinheiro1@hotmail.com)](mailto:scillapinheiro@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+21+988635419&text=Olá!)](https://api.whatsapp.com/send?phone=55+21+988635419&text=Olá!)
 
 
 ## 🚀 Habilidades
