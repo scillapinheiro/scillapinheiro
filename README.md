@@ -25,10 +25,10 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 ## :books: Aprendendo
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-## :satellite: No radar
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## :satellite: No radar
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## :bar_chart: Estatisticas do GitHub
@@ -36,4 +36,7 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scillapinheiro&hide=TeX&layout=compact&theme=dracula)
 
 ## :pushpin: Destaques
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-1&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-1) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-2&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-1&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-2&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-javascript-ii&theme=dracula)](https://github.com/scillapinheiro/gama-academy-javascript-ii)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-nodejs&theme=dracula)](https://github.com/scillapinheiro/gama-academy-nodejs)
