@@ -27,7 +27,7 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-nodejs&theme=dracula)](https://github.com/scillapinheiro/gama-academy-nodejs)
 ## :satellite: No radar
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
