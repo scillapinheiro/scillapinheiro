@@ -43,3 +43,4 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-nodejs-js&theme=dracula)](https://github.com/scillapinheiro/gama-academy-nodejs-js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-nodejs-ts&theme=dracula)](https://github.com/scillapinheiro/gama-academy-nodejs-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-poo-jokenpo&theme=dracula)](https://github.com/scillapinheiro/gama-academy-poo-jokenpo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-typescript&theme=dracula)](https://github.com/scillapinheiro/gama-gama-academy-typescript)
