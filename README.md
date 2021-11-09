@@ -10,10 +10,11 @@ Estou participando do Gama XP #39 na [Gama Academy](https://www.gama.academy/gam
 Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scillapinheiro/)](https://www.linkedin.com/in/scillapinheiro/)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:priscilla_pinheiro1@hotmail.com)](mailto:scillapinheiro@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/scillapinheiro/)](https://twitter.com/scillapinheiro)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/scillapinheiro/)](https://instagram.com/scillapinheiro)
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/scillapinheiro/)](https://facebook.com/scillapinheiro)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:priscilla_pinheiro1@hotmail.com)](mailto:scillapinheiro@gmail.com)
+
 
 ## :rocket: Habilidades
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,4 +45,3 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-nodejs-ts&theme=dracula)](https://github.com/scillapinheiro/gama-academy-nodejs-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-poo-jokenpo&theme=dracula)](https://github.com/scillapinheiro/gama-academy-poo-jokenpo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-typescript&theme=dracula)](https://github.com/scillapinheiro/gama-gama-academy-typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-react&theme=dracula)](https://github.com/scillapinheiro/gama-academy-react)
