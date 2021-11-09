@@ -24,9 +24,9 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 
 ## :books: Estudando
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## :satellite: No radar
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -44,4 +44,4 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-nodejs-ts&theme=dracula)](https://github.com/scillapinheiro/gama-academy-nodejs-ts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-poo-jokenpo&theme=dracula)](https://github.com/scillapinheiro/gama-academy-poo-jokenpo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-typescript&theme=dracula)](https://github.com/scillapinheiro/gama-gama-academy-typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-react&theme=dracula)](https://github.com/scillapinheiro/gama-gama-academy-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-react&theme=dracula)](https://github.com/scillapinheiro/gama-academy-react)
