@@ -3,7 +3,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, sou Priscilla
 
-Sou Designer Gráfico formada em 2015, com 8 anos de experiência. Atualmente estou em transição de carreira para Desenvolvimento Front End.
+Desenvolvedora Front-end com background em Design Gráfico.
 
 Estou participando do Gama XP #39 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack). A conclusão será no final de dezembro de 2021.
 
@@ -25,12 +25,7 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 
 ## :books: Estudando
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-## :satellite: No radar
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## :bar_chart: Estatisticas do GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scillapinheiro&show_icons=true&theme=dracula)
