@@ -40,4 +40,5 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 ## :pushpin: Destaques Gama Academy
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-1&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-2&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-3&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-final&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-final)
