@@ -5,7 +5,9 @@
 
 Desenvolvedora Front-end com background em Design Gráfico.
 
-Estou participando do Gama XP #39 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack). A conclusão será no final de dezembro de 2021.
+Participei do Gama XP #39 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack) e meu [projeto final](https://github.com/scillapinheiro/gama-academy-desafio-final) ficou em primeiro lugar.
+
+Estou em busca da minha primeira oportunidade como Desenvolvedora Front-end.
 
 Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 
