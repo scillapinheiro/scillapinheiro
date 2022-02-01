@@ -7,8 +7,6 @@ Desenvolvedora Front-end com background em Design Gráfico.
 
 Participei do Gama XP #39 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack) e meu [projeto final](https://github.com/scillapinheiro/gama-academy-desafio-final) ficou em primeiro lugar.
 
-Estou em busca da minha primeira oportunidade como Desenvolvedora Front-end.
-
 Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scillapinheiro/)](https://www.linkedin.com/in/scillapinheiro/)
