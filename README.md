@@ -3,9 +3,11 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Olá, sou Priscilla
 
-Desenvolvedora Front-end com background em Design Gráfico.
+Desenvolvedora com background em Design Gráfico.
 
 Participei do Gama XP #39 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack) e meu [projeto final](https://github.com/scillapinheiro/gama-academy-desafio-final) ficou em primeiro lugar.
+
+Após o bootcamp consegui minha primeira oportunidade na área. Hoje, sou Analista de Sistemas na [eNe Soluções](https://www.enesolucoes.com.br/) :green_heart:
 
 Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 
