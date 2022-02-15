@@ -33,10 +33,3 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 ## :bar_chart: Estatisticas do GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=scillapinheiro&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scillapinheiro&hide=TeX&layout=compact&theme=dracula)
-
-
-## :pushpin: Destaques Gama Academy
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-1&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-2&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-3&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scillapinheiro&repo=gama-academy-desafio-final&theme=dracula)](https://github.com/scillapinheiro/gama-academy-desafio-final)
