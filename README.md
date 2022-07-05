@@ -3,7 +3,7 @@
 
 # Olá, sou Priscilla
 
-Desenvolvedora com background em Design Gráfico.
+Desenvolvedora com background em Design.
 
 Participei do Gama XP #39 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack) e meu [projeto final](https://github.com/scillapinheiro/gama-academy-desafio-final) ficou em primeiro lugar.
 
