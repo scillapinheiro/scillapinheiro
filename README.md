@@ -5,7 +5,7 @@
 
 Desenvolvedora com background em Design.
 
-Participei do Gama XP #39 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack) e meu [projeto final](https://github.com/scillapinheiro/gama-academy-desafio-final) ficou em primeiro lugar.
+Participei do Gama XP #39 na [Gama Academy](https://www.gama.academy/gama-experience/desenvolvimento-full-stack) e meu [projeto final](https://github.com/scillapinheiro/gama-academy-desafio-final) ficou em 1º lugar.
 
 Após o bootcamp consegui minha primeira oportunidade na área. Hoje, sou Analista de Sistemas na [eNe Soluções](https://www.enesolucoes.com.br/) :green_heart:
 
