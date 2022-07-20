@@ -13,7 +13,6 @@ Aqui você encontra projetos feitos durante o bootcamp da Gama e outros cursos.
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/scillapinheiro/)](https://www.linkedin.com/in/scillapinheiro/)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:priscilla_pinheiro1@hotmail.com)](mailto:priscilla_pinheiro1@hotmail.com)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://pt.stackoverflow.com/users/289523/priscilla-pinheiro/)](https://pt.stackoverflow.com/users/289523/priscilla-pinheiro/)
 [![Twitter](https://img.shields.io/badge/-Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&link=https://www.twitter.com/scillapinheiro/)](https://twitter.com/scillapinheiro)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/scillapinheiro/)](https://instagram.com/scillapinheiro)
 [![Facebook](https://img.shields.io/badge/-Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/scillapinheiro/)](https://facebook.com/scillapinheiro)
