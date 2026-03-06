@@ -5,22 +5,30 @@
 <h1 align="center">Olá, eu sou a Priscilla :wave: </h1>
 
 <p align="center">
-  Desenvolvedora Frontend com background em Design <br/>
-  Foco em experiência do usuário, performance e arquitetura escalável
+  Web Developer | JavaScript & TypeScript | Frontend Development | AI-Augmented Development | Design Background
 </p>
 
 ---
 
 ## :woman_technologist: Sobre mim
 
-Sou desenvolvedora com background em Design, o que me permite unir visão estética, usabilidade e qualidade técnica nas soluções que construo.
+Sou desenvolvedora web com background em Design Gráfico, o que me permite unir visão estética, usabilidade e qualidade técnica nas soluções que construo.
 
-Participei do Gama XP #39 na Gama Academy, onde meu projeto final conquistou o 1º lugar.  
-Após o bootcamp, iniciei minha trajetória profissional na área de tecnologia e desde então venho evoluindo continuamente como desenvolvedora.
+Iniciei minha transição para tecnologia através do bootcamp Gama XP #39 da Gama Academy, onde meu projeto final conquistou o 1º lugar entre os participantes. Desde então venho construindo minha carreira em desenvolvimento web, evoluindo continuamente em projetos reais.
 
-Atualmente atuo como **Analista de Sistemas**, trabalhando principalmente com aplicações web modernas, integrações com APIs e melhoria contínua de experiência e performance.
+Atualmente atuo como Analista de Sistemas, trabalhando principalmente com aplicações web modernas utilizando JavaScript e TypeScript, integrações com APIs e melhorias contínuas de experiência e performance.
 
----
+Também aplico práticas de **AI-Augmented Development**, utilizando inteligência artificial como ferramenta para acelerar desenvolvimento, explorar soluções técnicas e aumentar produtividade, mantendo sempre revisão crítica e qualidade de código.
+
+Minha experiência prévia em design me permite colaborar de forma mais próxima com produto e UX, transformando interfaces do Figma em aplicações funcionais e bem estruturadas.
+
+## :dart: Principais focos:
+
+• Desenvolvimento Frontend (JavaScript / TypeScript)  
+• Integração com APIs  
+• Performance e experiência do usuário  
+• AI-Augmented Development  
+• UI e colaboração com design
 
 ## :rocket: Tecnologias e Ferramentas
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
