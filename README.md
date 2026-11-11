@@ -31,49 +31,25 @@ Comecei minha trajetória em tecnologia com a Gama XP #39, da Gama Academy, onde
 ## :rocket: Tecnologias e Ferramentas
 
 ### Front-End
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<img src="assets/tech-frontend.svg" alt="React, TypeScript, JavaScript, Next.js, Gatsby, Vue.js, Tailwind CSS, Ant Design, Bootstrap, CSS3, HTML5" width="100%" />
 
 ### Back-End e Integrações
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![API REST](https://img.shields.io/badge/API_REST-005571?style=for-the-badge)
-![BFF](https://img.shields.io/badge/BFF-6B7280?style=for-the-badge)
+<img src="assets/tech-backend.svg" alt="Node.js, NestJS, Fastify, Prisma, API REST, BFF" width="100%" />
 
 ### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<img src="assets/tech-mobile.svg" alt="Flutter, Dart" width="100%" />
 
 ### Outras Tecnologias
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<img src="assets/tech-outras.svg" alt="PHP, Laravel" width="100%" />
 
 ### Banco de Dados e Serviços
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
+<img src="assets/tech-banco.svg" alt="Supabase, PostgreSQL, DBeaver" width="100%" />
 
 ### Ferramentas de Desenvolvimento e APIs
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+<img src="assets/tech-ferramentas.svg" alt="Postman, Insomnia, Git, GitHub, Bitbucket" width="100%" />
 
 ### Inteligência Artificial
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
+<img src="assets/tech-ia.svg" alt="Claude Code, Codex" width="100%" />
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
