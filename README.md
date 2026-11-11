@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/banner.svg" alt="Composição abstrata com formas arredondadas e uma curva de Bézier" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=scillapinheiro" alt="Profile views" />
 </p>
 
@@ -8,7 +12,7 @@
   Desenvolvedora Full Stack | React · TypeScript · JavaScript | AI-Augmented Development | Design Background
 </p>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
 ## :woman_technologist: Sobre mim
 
@@ -70,3 +74,14 @@ Comecei minha trajetória em tecnologia com a Gama XP #39, da Gama Academy, onde
 ### Inteligência Artificial
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge)
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<p align="center">
+  <img src="assets/stats.svg" alt="Estatísticas do GitHub: contribuições, repositórios, estrelas e pull requests" width="48%" />
+  <img src="assets/languages.svg" alt="Linguagens mais usadas" width="48%" />
+</p>
+
+<p align="center">
+  <img src="assets/activity.svg" alt="Mapa de contribuições do último ano e sequências de dias" width="96.5%" />
+</p>
