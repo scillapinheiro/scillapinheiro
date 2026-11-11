@@ -10,6 +10,7 @@ import string
 import sys
 from pathlib import Path
 
+from fontTools.pens.boundsPen import BoundsPen
 from fontTools.pens.svgPathPen import SVGPathPen
 from fontTools.ttLib import TTFont
 
@@ -27,7 +28,12 @@ for ch in charset:
     name = cmap[ord(ch)]
     pen = SVGPathPen(glyphs)
     glyphs[name].draw(pen)
-    chars[ch] = {"adv": hmtx[name][0], "d": pen.getCommands()}
+    bounds = BoundsPen(glyphs)
+    glyphs[name].draw(bounds)
+    adv = hmtx[name][0]
+    # xMin/xMax: onde o desenho da letra realmente começa e termina (o espaço fica sem contorno)
+    x_min, _, x_max, _ = bounds.bounds if bounds.bounds else (0, 0, adv, 0)
+    chars[ch] = {"adv": adv, "xMin": x_min, "xMax": x_max, "d": pen.getCommands()}
 
 data = {
     "upm": font["head"].unitsPerEm,

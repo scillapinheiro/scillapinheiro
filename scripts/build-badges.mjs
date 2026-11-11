@@ -31,6 +31,15 @@ function textWidth(text) {
   return (units * FS) / GLYPHS.upm;
 }
 
+// largura do texto e a folga que a primeira e a última letra têm dentro da própria caixa
+function textMetrics(text) {
+  const chars = [...text];
+  const first = GLYPHS.chars[chars[0]];
+  const last = GLYPHS.chars[chars[chars.length - 1]];
+  const s = FS / GLYPHS.upm;
+  return { adv: textWidth(text), lsb: first.xMin * s, rsb: (last.adv - last.xMax) * s };
+}
+
 function textPath(text, x, centerY, fill) {
   const s = FS / GLYPHS.upm;
   const baseline = centerY + (GLYPHS.capHeight * s) / 2; // centraliza pela altura das maiúsculas
@@ -143,19 +152,24 @@ const contrast = (a, b) => {
 const textOn = (bg) => (contrast(bg, WHITE) >= 3.5 ? WHITE : INK);
 
 // ---------- Desenho ----------
-const H = 34, GAP = 8, MAX = 830, PAD = 2, LOGO = 18;
+const H = 34, GAP = 8, MAX = 830, EDGE = 2, LOGO = 18;
+const PAD = 14;        // folga lateral do badge, igual no começo e no fim
+const ICON_MARGIN = 0; // os ícones do simple-icons preenchem o quadrado 24x24 quase até a borda
 
 async function badges(items) {
-  let x = PAD, y = PAD;
+  let x = EDGE, y = EDGE;
   const parts = [];
   for (const [name, slugs, bg, logoColor] of items) {
     const d = await iconPath(name, slugs);
     const fg = textOn(bg);
-    const textX = d ? 14 + LOGO + 8 : 16;
-    const w = Math.round((textX + textWidth(name) + 16) * 10) / 10; // sobra igual dos dois lados
-    if (x + w > MAX - PAD) { x = PAD; y += H + GAP; }
+    // PAD é a distância da borda até o que aparece (logo ou letra), igual nos dois lados
+    const m = textMetrics(name);
+    const logoX = PAD - ICON_MARGIN;
+    const textX = (d ? logoX + LOGO + 8 : PAD) - m.lsb;
+    const w = Math.round((textX + m.adv - m.rsb + PAD) * 10) / 10;
+    if (x + w > MAX - EDGE) { x = EDGE; y += H + GAP; }
     const logo = d
-      ? `<path transform="translate(14 ${(H - LOGO) / 2}) scale(${LOGO / 24})" d="${d}" fill="${logoColor ?? fg}"/>`
+      ? `<path transform="translate(${logoX} ${(H - LOGO) / 2}) scale(${LOGO / 24})" d="${d}" fill="${logoColor ?? fg}"/>`
       : '';
     parts.push(
       `  <g transform="translate(${x} ${y})">` +
@@ -166,7 +180,7 @@ async function badges(items) {
     );
     x += w + GAP;
   }
-  const total = y + H + PAD;
+  const total = y + H + EDGE;
   const label = items.map(([n]) => n).join(', ');
   return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${MAX} ${total}" role="img" aria-label="${esc(label)}">\n${parts.join('\n')}\n</svg>\n`;
 }
