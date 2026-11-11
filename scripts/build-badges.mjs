@@ -16,7 +16,34 @@ const FAKE = args.includes('--fake-icons');
 const outDir = resolve(opt('--out') ?? join(root, 'assets'));
 const iconDir = join(root, 'scripts', 'icons');
 
-const FONT = "ui-rounded, 'SF Pro Rounded', Nunito, 'Segoe UI', system-ui, -apple-system, sans-serif";
+// Texto desenhado como contorno (Inter SemiBold, extraído por scripts/make-glyphs.py).
+// Assim a largura é medida de verdade e o texto fica igual em qualquer computador.
+const GLYPHS = JSON.parse(readFileSync(join(root, 'scripts', 'font-glyphs.json'), 'utf8'));
+const FS = 14; // tamanho do texto em px
+
+function textWidth(text) {
+  let units = 0;
+  for (const ch of text) {
+    const g = GLYPHS.chars[ch];
+    if (!g) throw new Error(`Falta o caractere "${ch}" em font-glyphs.json (rode make-glyphs.py)`);
+    units += g.adv;
+  }
+  return (units * FS) / GLYPHS.upm;
+}
+
+function textPath(text, x, centerY, fill) {
+  const s = FS / GLYPHS.upm;
+  const baseline = centerY + (GLYPHS.capHeight * s) / 2; // centraliza pela altura das maiúsculas
+  let cursor = 0;
+  const paths = [];
+  for (const ch of text) {
+    const g = GLYPHS.chars[ch];
+    if (g.d) paths.push(`<path transform="translate(${cursor} 0)" d="${g.d}"/>`);
+    cursor += g.adv;
+  }
+  return `<g transform="translate(${x.toFixed(2)} ${baseline.toFixed(2)}) scale(${s.toFixed(6)} ${(-s).toFixed(6)})" fill="${fill}">${paths.join('')}</g>`;
+}
+
 const INK = '#15191C';
 const WHITE = '#FFFFFF';
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -124,8 +151,8 @@ async function badges(items) {
   for (const [name, slugs, bg, logoColor] of items) {
     const d = await iconPath(name, slugs);
     const fg = textOn(bg);
-    const textX = d ? 14 + LOGO + 8 : 18;
-    const w = textX + Math.ceil([...name].length * 8.8) + 18;
+    const textX = d ? 14 + LOGO + 8 : 16;
+    const w = Math.round((textX + textWidth(name) + 16) * 10) / 10; // sobra igual dos dois lados
     if (x + w > MAX - PAD) { x = PAD; y += H + GAP; }
     const logo = d
       ? `<path transform="translate(14 ${(H - LOGO) / 2}) scale(${LOGO / 24})" d="${d}" fill="${logoColor ?? fg}"/>`
@@ -134,7 +161,7 @@ async function badges(items) {
       `  <g transform="translate(${x} ${y})">` +
       `<rect width="${w}" height="${H}" rx="${H / 2}" fill="${bg}" stroke="#FFFFFF" stroke-opacity="0.16" stroke-width="1"/>` +
       logo +
-      `<text x="${textX}" y="${H / 2 + 5}" font-family="${FONT}" font-size="14" font-weight="700" fill="${fg}">${esc(name)}</text>` +
+      textPath(name, textX, H / 2, fg) +
       `</g>`
     );
     x += w + GAP;
